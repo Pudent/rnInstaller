@@ -127,7 +127,7 @@ int main(int argc, char **argv) {
 	int patchfile = 0;
 	int header;
 	rawDataOffset=0;
-	char cakes[]="YS:/reiNand.dat";
+	char cakes[]="YS:/ReiNand.dat";
     char custom[6][35];
 
 	aread(&header,1,4,patchfile);
